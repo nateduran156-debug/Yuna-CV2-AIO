@@ -1,7 +1,7 @@
 """
 : ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
+    + Discord: 4am.
+    + Community: https://discord.gg/workout (workout Development )
     + for any queries reach out Community or DM me.
 """
 import os 
