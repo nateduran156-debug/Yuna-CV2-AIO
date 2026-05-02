@@ -1,7 +1,7 @@
 """
 : ! Aegis !
     + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
+    + Community: https://discord.gg/workout (workout Development )
     + for any queries reach out Community or DM me.
 """
 from __future__ import annotations 
